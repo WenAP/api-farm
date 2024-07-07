@@ -1,0 +1,4 @@
+fastapi
+pymongo
+passlib
+uvicorn
